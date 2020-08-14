@@ -1,3 +1,5 @@
+from itertools import combinations
+
 class CombinationIterator:
 
     def __init__(self, characters: str, combinationLength: int):
